@@ -1,0 +1,26 @@
+.okr-details {
+    display: flex;
+    padding: 1.2rem 0;
+    align-items: center;
+    cursor: pointer;
+}
+
+
+.okr-details.child {
+    margin-left: 2rem;
+}
+
+.okr-details .okr-details__image-wrapper__user-image {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.okr-details .okr-details__li-content {
+    margin-left: 3rem;
+}
+
+.okr-details .okr-details__content {
+    margin-left: 2rem;
+}
+

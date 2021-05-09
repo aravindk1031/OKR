@@ -1,0 +1,10 @@
+
+.okr-category-selector {
+    display: flex;
+    padding: 1rem;
+}
+select {
+    margin-left: 0.5rem;
+}
+
+
